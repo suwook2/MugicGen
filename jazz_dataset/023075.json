@@ -1,0 +1,14 @@
+{
+    "key": "",
+    "artist": "BLOB",
+    "sample_rate": 44100,
+    "file_extension": "mp3",
+    "description": "A track by BLOB, titled Blues Lounge",
+    "duration": 111,
+    "bpm": "",
+    "genre": "Jazz",
+    "title": "Blues Lounge",
+    "name": "23075.mp3",
+    "instrument": "",
+    "moods": ["mystical"]
+}

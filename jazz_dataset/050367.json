@@ -1,0 +1,14 @@
+{
+    "key": "",
+    "artist": "Horiso",
+    "sample_rate": 44100,
+    "file_extension": "mp3",
+    "description": "A track by Horiso, titled park",
+    "duration": 540,
+    "bpm": "",
+    "genre": "Jazz",
+    "title": "park",
+    "name": "50367.mp3",
+    "instrument": "",
+    "moods": ["moody", "slow", "bluesy", "mystical"]
+}

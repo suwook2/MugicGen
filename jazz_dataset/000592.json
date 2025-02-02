@@ -1,0 +1,14 @@
+{
+    "key": "",
+    "artist": "Delta Dreambox",
+    "sample_rate": 44100,
+    "file_extension": "mp3",
+    "description": "A track by Delta Dreambox, titled Song X",
+    "duration": 206,
+    "bpm": "",
+    "genre": "Jazz",
+    "title": "Song X",
+    "name": "592.mp3",
+    "instrument": "",
+    "moods": ["funky", "light"]
+}
