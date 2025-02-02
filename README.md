@@ -1,4 +1,5 @@
 MugicGen-small LoRA 튜닝
+
 더 나은 JAZZ 음악 생성을 위한 학습
 
 데이터셋
