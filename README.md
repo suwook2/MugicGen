@@ -6,7 +6,7 @@ MugicGen-small LoRA 튜닝
 
 
 학습 결과
-![3](https://github.com/user-attachments/assets/b85c6562-1b91-4ffe-8e4d-9977ba7f2258)
+![2](https://github.com/user-attachments/assets/fdda9620-e807-4063-b2a0-4cbf2b398baf)
 
 
 기존 모델과의 성능 비교(CLAP 활용)
